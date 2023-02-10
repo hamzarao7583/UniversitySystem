@@ -1,0 +1,6 @@
+/Users/macbookair/Projects/UniversitySystem/UniversitySystem/obj/Debug/net7.0/UniversitySystem.csproj.AssemblyReference.cache
+/Users/macbookair/Projects/UniversitySystem/UniversitySystem/obj/Debug/net7.0/UniversitySystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Projects/UniversitySystem/UniversitySystem/obj/Debug/net7.0/UniversitySystem.AssemblyInfoInputs.cache
+/Users/macbookair/Projects/UniversitySystem/UniversitySystem/obj/Debug/net7.0/UniversitySystem.AssemblyInfo.cs
+/Users/macbookair/Projects/UniversitySystem/UniversitySystem/obj/Debug/net7.0/UniversitySystem.csproj.CoreCompileInputs.cache
+/Users/macbookair/Projects/UniversitySystem/UniversitySystem/obj/Debug/net7.0/UniversitySystem.MvcApplicationPartsAssemblyInfo.cache
